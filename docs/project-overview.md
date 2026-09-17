@@ -82,3 +82,5 @@ SQLite JDBC
 Package structure
         ↓
 Run empty JavaFX application
+
+# [[changelog]]

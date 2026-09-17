@@ -1,0 +1,3 @@
+- 17/09/2026
+	- Đã xong Phase 1, 2, 3
+	- Đã tạo xong maven và setup Eclipse
