@@ -1,0 +1,14 @@
+# Obsidian
+docs/.obsidian/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build
+target/
